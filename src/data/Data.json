@@ -1,0 +1,90 @@
+{
+
+    "Object": [  
+         {
+            "Divice": "Divice 1",
+            "type": 1
+        },
+        {
+            "Divice": "Divice 2",
+            "type": 1
+            
+        },
+        {
+            "Divice": "Divice 3",
+            "type": 1
+        },
+        {
+            "Divice": "Divice 4",
+            "type": 1
+        },
+        {
+            "Divice": "Divice 5",
+            "type": 1
+        },
+        {
+            "Divice": "Divice 6",
+            "type": 1
+        },
+        {
+            "Divice": "Divice 7",
+            "type": 1
+        },
+        {
+            "Divice": "Divice 8",
+            "type": 1
+        },
+        {
+            "Divice": "Divice 9",
+            "type": 1
+        },
+        {
+            "Divice": "Divice 10",
+            "type": 1
+        },
+        {
+            "Divice": "Divice 11",
+            "type": 2
+        },
+        {
+            "Divice": "Divice 12",
+            "type": 2
+        },
+        {
+            "Divice": "Divice 13",
+            "type": 2
+        },
+        {
+            "Divice": "Divice 14",
+            "type": 2
+        },
+        {
+            "Divice": "Divice 15",
+            "type": 2
+        },
+        {
+            "Divice": "Divice 16",
+            "type": 2
+        },
+        {
+            "Divice": "Divice 17",
+            "type": 2
+        },
+        
+        {
+            "Divice": "Divice 18",
+            "type": 2
+        },
+        {
+            "Divice": "Divice 19",
+            "type": 2
+        },
+        {
+            "Divice": "Divice 20",
+            "type": 2
+        }
+    ]
+ 
+        
+    
+}
